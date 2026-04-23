@@ -1,0 +1,9 @@
+# 本地表格与结果文件
+*.xlsx
+*.xls
+*.csv
+~$*.xlsx
+
+# Python 缓存
+__pycache__/
+*.pyc
